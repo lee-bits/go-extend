@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"github.com/lee157953/go-extend/ext"
+	"github.com/lee-bits/go-extend/ext"
 	"testing"
 )
 
